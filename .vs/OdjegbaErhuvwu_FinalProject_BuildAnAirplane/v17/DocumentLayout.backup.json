@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC94DEE-8C32-451F-9CE7-F49B8BA2A115}|OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.vcxproj|C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DC94DEE-8C32-451F-9CE7-F49B8BA2A115}|OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.vcxproj|solutionrelative:OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC94DEE-8C32-451F-9CE7-F49B8BA2A115}|OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.vcxproj|C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DC94DEE-8C32-451F-9CE7-F49B8BA2A115}|OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.vcxproj|solutionrelative:OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC94DEE-8C32-451F-9CE7-F49B8BA2A115}|OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.vcxproj|C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DC94DEE-8C32-451F-9CE7-F49B8BA2A115}|OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.vcxproj|solutionrelative:OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Airplane.h",
+              "DocumentMoniker": "C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.h",
+              "RelativeDocumentMoniker": "OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.h",
+              "ToolTip": "C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.h",
+              "RelativeToolTip": "OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T18:38:31.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Airplane.cpp",
+              "DocumentMoniker": "C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.cpp",
+              "RelativeDocumentMoniker": "OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.cpp",
+              "ToolTip": "C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.cpp",
+              "RelativeToolTip": "OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\Airplane.cpp",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAewG4BAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T18:38:31.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OdjegbaErhuvwu_FinalProject_BuildAnAirplane.cpp",
+              "DocumentMoniker": "C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.cpp",
+              "RelativeDocumentMoniker": "OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.cpp",
+              "ToolTip": "C:\\Users\\ofran\\source\\repos\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.cpp",
+              "RelativeToolTip": "OdjegbaErhuvwu_FinalProject_BuildAnAirplane\\OdjegbaErhuvwu_FinalProject_BuildAnAirplane.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T18:38:31.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

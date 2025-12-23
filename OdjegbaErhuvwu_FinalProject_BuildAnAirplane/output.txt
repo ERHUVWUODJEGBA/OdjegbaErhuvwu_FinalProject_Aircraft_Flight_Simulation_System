@@ -1,0 +1,37 @@
+
+Aircraft Specifications
+The name of the aircraft is: Cessna Skyhawk II 1976 Model 172M
+The color of the aircraft is: White
+This aircraft has 1 engine.
+The length of the aircraft is: 27.167 feet.
+The height of the aircraft is: 8.917 feet.
+The wingspan of the aircraft is: 36.083 feet.
+The wing area of the aircraft is: 174 square feet.
+The max altitude of the aircraft is: 12000 feet.
+The oil capacity of the aircraft is: 2.25 gallons.
+The total fuel of the aircraft is: 42 gallons.
+The usable fuel of the aircraft is: 38 gallons.
+The unusable fuel of the aircraft is: 6 gallons.
+The standard empty weight is: 1412 pounds.
+The maximum gross weight is: 2300 pounds.
+The maximum takeoff weight is: 2300 pounds.
+The maximum landing weight is: 2300 pounds.
+The baggage allowance is: 50 pounds.
+
+User Output:
+The starting airport is: bfd
+The ending airport is: cmh
+The crusing speed is: 120 miles per hour.
+The wind speed is: 120 miles per hour.
+The wind direction is: n
+The crusing direction is: n
+The pilot weight is: 120 pounds.
+The passenger weight is: 0 pounds
+The luggage weight is: 0 pounds.
+The cruising altitude is: 4500 feet.
+
+Flight Specifications:
+Gross / Takeoff Weight: 1532 lbs
+Ground Speed: 100 mph
+Total Travel Time: 2.8 hours
+Real Travel Time: 48 minutes
